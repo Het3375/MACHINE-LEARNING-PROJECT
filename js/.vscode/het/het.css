@@ -1,0 +1,338 @@
+/* .bc {
+    border: 1px solid red;
+} */
+/* p{
+    font-style: italic;
+    background-color: lightcoral;
+    color: lightgreen;
+    font-size: 20px;
+}
+.bglo{
+    background-color: #1900ff;
+} */
+ 
+/* p{
+    font-family: 'Noto Sans', sans-serif;
+    line-height:12em;
+
+} */
+/* #firstpera{
+    color: lightgreen;
+}
+#secoundpera{
+    color: rgb(195, 75, 75) /rgb value/
+}
+
+#thirdpera{
+    color:#73358f ; /hex value/
+} */
+/* #firstpera{
+    background-color: salmon;
+    height: 100px;
+    width: 455px;
+    border:1px solid red;
+    border-radius: 13px;
+
+}
+
+#secoundpera{
+    background-color: salmon;
+    height: 100px;
+    width: 455px;
+    border-top: 1px solid black;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+
+}
+#thirdpera{
+    height: 500px;
+    width: 400px;
+    background-image: url('https://codewithharry.com/static/home/img/photo.png');
+    border: 2px solid red;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+
+/* .container{
+    background-color: blue;
+    border: 3px solid  rgb(143, 132, 132);
+    padding: 23px 34px;
+    margin: 34px;
+    width: 100px;
+} */
+
+/* 
+*{
+ box-sizing: border-box;
+}
+
+
+
+
+
+
+.container{
+    width: 900px;
+    border: 3px solid purple;
+    margin:23px auto;
+    
+
+}
+
+.item{
+      border: 3px solid green;
+      margin: 12px 3px;
+      padding: 12px 3px;
+      background-color: rgb(223, 164, 164);
+}
+
+#fruits{
+ float: left;
+ width: 48%;
+
+}
+
+#computer{
+ float: left;
+ width: 48%;
+
+} */
+
+
+/* #stationery{
+    width: 48%;
+} */
+
+/* .navbar{
+    background-color: black; */
+    /* border-radius: 27
+    px;
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+
+.navbar li{
+    float: left;
+    list-style: none;
+    margin: 19px 3px;
+
+
+}
+
+.navbar li a{
+    padding: 3px 3px;
+    text-decoration: none;
+    color: white;
+} */
+
+
+/* 
+.fuck {
+    border: 1px solid black;
+     margin:  0px;
+     padding:20px;
+     width: %;
+     display: block; 
+     box-sizing: border-box;  
+    
+}
+.mc{
+  width: 77%;
+  display:block ;
+  box-sizing: border-box;
+} */
+
+/* .box {
+    width:150px;
+    height:130px;
+ border: 1px solid green;
+
+}
+#box1{ background-color: blue; }
+#box2{background-color:black;  }
+#box3{background-color: firebrick; }
+#box4{ background-color: orange; } */
+/* 
+input{
+    display: block;
+
+}
+.container{
+    display: block;
+    width: 250px;
+    margin: 0px;
+     margin: auto;
+}
+
+input[type='text']{
+
+     padding: 2px;
+     margin: 2px;
+
+}
+
+
+a[target]
+{
+    font-size: 12px;
+    color: blue;
+    
+}
+
+a[target=_self]
+{
+    color: pink;
+}
+ */
+/* 
+body{
+    margin: 0px;
+    padding: 0px;
+  
+    background-color: black;
+    color: white;
+    
+
+}
+header::before{
+    content:"" ;
+    background:url(https://source.unsplash.com/collection/190727/1600x900) no-repeat center ;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    top: 0;
+    left: 0;
+    opacity: 0.5;
+
+}
+
+
+ .navigation{
+     font-size: 6px;
+    display: flex; 
+
+
+
+}
+
+
+ li{
+    list-style: none;
+    padding: 8px 20px;
+    font-size: 19px;
+ }
+
+section{
+     display: flex;
+     flex-direction: column;
+     margin:73px 44px; 
+     text-align: center; 
+     
+     height: 260px;
+     justify-content: center;
+}
+h3{
+    font-size: 3rem;
+}
+p{
+    text-align: center;
+}
+
+ */
+
+
+/* 
+ * {
+    margin: 0;
+    padding: 0;
+  }
+   body {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    min-height: 100vh;
+    background: #000;
+  }
+  
+  a {
+    text-decoration: none;
+    color: gray;
+    font-size: 24px;
+  }
+  
+  p {
+    font-weight: 700;
+    text-align: center;
+    font-size: 40px;
+    font-family: Hack, sans-serif;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, #000, #fff, #000);
+    letter-spacing: 5px;
+    
+     -webkit-background-clip: text;   
+    background-clip: text;
+    -webkit-text-fill-color: transparent; 
+
+    background-repeat: no-repeat;
+    background-size: 80%;
+    animation: shine 5s linear infinite;
+    position: relative; 
+
+   
+
+   animation: shine 5s liner infinite ;
+    
+  }
+  
+  @keyframes shine {
+    0% {
+      background-position-x: -500%;
+    }
+    100% {
+      background-position-x: 500%;
+    }
+  }
+    */
+
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+
+  .con{
+      background-color: blueviolet;
+      width: 719px;
+      height: 180px;   
+  }
+
+  .container{
+      background-color: brown;   
+      width: 150px;
+      height: 150px;
+      padding: 12px;      
+      animation: het 5s infinite;
+      position: relative;
+      
+  }
+
+  @keyframes het {
+    
+    from{
+        height: 50%;
+    }
+
+
+     to{
+         height: 100%;
+     }
+
+
+
+  }
